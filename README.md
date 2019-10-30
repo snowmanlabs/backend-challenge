@@ -42,7 +42,7 @@ Your team is developing an application for users to create and explore tourist s
 ### Business Rules
 
 * Anonymous users can only see things.
-
+* Initial Categories are "Park", "Museum", "Theater", "Monument"
 
 ## Deliverables
 
@@ -68,6 +68,8 @@ The evaluation will follow the criteria below.
 * Reliability.
 * Robustness.
 * Scalability.
+* Your Perseverance.
+* Your Stamina.
 
 
 ## Bonus Deliverable
