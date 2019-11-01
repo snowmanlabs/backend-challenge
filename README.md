@@ -1,7 +1,21 @@
-# Challenge Description
+# Backend Challenge
+
+Are you prepared?
+
+## Description
 
 We want to understand you better, so do not be afraid of failing, this is not a right or wrong matter. Just do your best. Good luck!
 
+## Table of Contents
+
+- [Goal](#goal)
+- [Non-functional specs](#non-functional-specs)
+- [User Stories](#user-stories)
+- [Business Rules](#business-rules)
+- [Deliverables](#deliverables)
+- [Evaluation](#evaluation)
+- [Bonus Deliverable](#bonus-deliverable)
+- [Questions?](#questions)
 
 ## Goal
 
@@ -75,3 +89,10 @@ The evaluation will follow the criteria below.
 ## Bonus Deliverable
 
 Beyond your hard skills we are also interested on how you think, the way your code evolves and grows until it's done. So if you are feeling like a [awesome developer streamer](https://github.com/bnb/awesome-developer-streams) :), we would like to see a video of your development process. It would allow us to better understand you and give you a more complete feedback.
+
+
+## Questions?
+
+If you have any question about the challenge, we have a discussing forum for you!
+
+[Dev Challenge Forum](https://groups.google.com/a/snowmanlabs.com/forum/#!forum/dev.challenge).
